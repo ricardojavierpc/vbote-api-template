@@ -221,3 +221,6 @@ mvn test
 - [x] Filtro de autenticación
 - [x] Hibernate para persistencia
 - [x] Control de transacciones
+
+<img width="611" height="754" alt="Bildschirmfoto 2025-12-05 um 13 49 48" src="https://github.com/user-attachments/assets/f0c48f06-5546-4f88-bbca-21ed29abdd21" />
+
