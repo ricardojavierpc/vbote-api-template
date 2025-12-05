@@ -1,0 +1,1 @@
+# vbote-api-template
