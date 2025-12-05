@@ -224,3 +224,5 @@ mvn test
 
 <img width="611" height="754" alt="Bildschirmfoto 2025-12-05 um 13 49 48" src="https://github.com/user-attachments/assets/f0c48f06-5546-4f88-bbca-21ed29abdd21" />
 
+<img width="889" height="950" alt="Bildschirmfoto 2025-12-05 um 13 48 44" src="https://github.com/user-attachments/assets/e270739b-ea0b-44f1-9655-fcfd30c4cb16" />
+
